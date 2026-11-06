@@ -1,0 +1,11 @@
+Tux, the Linux mascot
+
+Original artwork: Copyright Larry Ewing and created with The GIMP.
+Vector artwork: Simon Budig and Garrett LeSage.
+
+The copyright holders allow redistribution and use for any purpose provided
+that attribution is retained. Redistribution of the vector drawing must
+include this copyright notice.
+
+Source: https://commons.wikimedia.org/wiki/File:Tux.svg
+Original Tux source: https://isc.tamu.edu/~lewing/linux/
