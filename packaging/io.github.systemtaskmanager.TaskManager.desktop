@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Linux Task Manager
+GenericName=Task Manager
+Comment=View and control apps, processes, services, and system performance
+Exec=linux-task-manager
+Icon=io.github.systemtaskmanager.TaskManager
+Terminal=false
+Type=Application
+Categories=System;Monitor;
+Keywords=task;manager;process;cpu;memory;disk;network;system;monitor;
+StartupNotify=true
+DBusActivatable=false

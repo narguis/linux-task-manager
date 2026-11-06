@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.systemtaskmanager.TaskManager</id>
+  <name>Linux Task Manager</name>
+  <summary>Monitor and control apps, processes, services, and performance</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <developer id="io.github.systemtaskmanager">
+    <name>Linux Task Manager contributors</name>
+  </developer>
+  <description>
+    <p>
+      Linux Task Manager is a native GTK task manager for Ubuntu and Debian.
+      It displays processes, startup applications, systemd services, signed-in
+      users, and live CPU, memory, disk, and network graphs.
+    </p>
+    <p>
+      Processes can be closed, force-killed, suspended, resumed, or reprioritized.
+      Identity checks guard every process action against PID reuse.
+    </p>
+  </description>
+  <launchable type="desktop-id">io.github.systemtaskmanager.TaskManager.desktop</launchable>
+  <url type="homepage">https://github.com/narguis/linux-task-manager</url>
+  <provides>
+    <binary>linux-task-manager</binary>
+  </provides>
+  <releases>
+    <release version="0.4.2" date="2026-11-05"/>
+    <release version="0.4.1" date="2026-11-05"/>
+    <release version="0.4.0" date="2026-11-05"/>
+    <release version="0.3.2" date="2026-11-02"/>
+    <release version="0.3.1" date="2026-11-01"/>
+    <release version="0.3.0" date="2026-11-01"/>
+    <release version="0.2.0" date="2026-11-01"/>
+    <release version="0.1.0" date="2026-10-31"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>
